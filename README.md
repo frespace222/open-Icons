@@ -1,3 +1,3 @@
-【域名地址】https://icons-3xn.pages.dev/
+【域名地址】https://open-icons.pages.dev/
 
-【代币图标】https://icons-3xn.pages.dev/token/
+【代币图标】https://open-icons.pages.dev/token/
